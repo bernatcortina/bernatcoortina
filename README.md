@@ -15,7 +15,7 @@
 
 - 📫 Escriu-me a **info@bernatcortina.cat**
 
-- 📄 Pots saber-ne més a [https://bernatcortina.cat](https://bernatcortina.cat)
+- 📄 Pots saber-ne més a [https://bernatcortina.cat](https://bernatcortina.cat) i [https://bernatcortina.github.io](https://bernatcortina.github.io/codespaces_template/)
 
 - 🔥 Ep, i la Patum! **https://lesmaces.cat/**
 
