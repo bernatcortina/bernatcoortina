@@ -7,7 +7,7 @@
 
 - 👯 Estic treballant en un projecte personal de LMS a [InfoCurs.cat](https://infocurs.cat/)
 
-- 🤝 Dono un cop de mà amb el [CE Berga ⚽️](https://ceberga.cat/)
+- 🤝 Dono un cop de mà al [CE Berga ⚽️](https://ceberga.cat/)
 
 - 👨‍💻 Alguns dels meus projectes són a [https://github.com/bernatcortina](https://github.com/bernatcortina)
 
